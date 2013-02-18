@@ -1,0 +1,15 @@
+package.xdc
+Main.xdc
+Main.xs
+Gui.xdc
+Gui.xs
+package/ti.xdais.wizards.genalg.sch
+package/.vers_g180
+package/.vers_r170
+package/.vers_b150
+package/.xdc-y25
+package/ti_xdais_wizards_genalg.java
+package/ti_xdais_wizards_genalg.class
+package/package_ti.xdais.wizards.genalg.c
+package/package.defs.h
+package/ti.xdais.wizards.genalg.ccs

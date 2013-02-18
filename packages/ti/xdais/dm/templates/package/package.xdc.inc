@@ -1,0 +1,11 @@
+package.xdc
+package/ti.xdais.dm.templates.sch
+package/.vers_g180
+package/.vers_r170
+package/.vers_b150
+package/.xdc-y25
+package/ti_xdais_dm_templates.java
+package/ti_xdais_dm_templates.class
+package/package_ti.xdais.dm.templates.c
+package/package.defs.h
+package/ti.xdais.dm.templates.ccs

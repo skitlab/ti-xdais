@@ -1,0 +1,14 @@
+package.xdc
+package.xs
+CIO.xdc
+CIO.xdt
+package/ti.xdais.utils.trace.cio.sch
+package/.vers_g180
+package/.vers_r170
+package/.vers_b150
+package/.xdc-y25
+package/ti_xdais_utils_trace_cio.java
+package/ti_xdais_utils_trace_cio.class
+package/package_ti.xdais.utils.trace.cio.c
+package/package.defs.h
+package/ti.xdais.utils.trace.cio.ccs

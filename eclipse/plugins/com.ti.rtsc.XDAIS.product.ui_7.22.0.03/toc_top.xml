@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?NLS TYPE="org.eclipse.help.toc"?>
+
+<toc label="XDAIS  7.22.0.03"
+>
+    <topic label="Release Notes" href="xdais_7_22_00_03_ReleaseNotes.html"/>            
+    <topic label="API Reference Guide" href="html/index.html"/>            
+    <topic label="Package Reference Guide" href="index.html"/>            
+</toc>

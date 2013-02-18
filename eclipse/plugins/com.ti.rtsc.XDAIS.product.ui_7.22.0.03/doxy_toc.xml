@@ -1,0 +1,320 @@
+<?xml version="1.0"?>
+<toc label="XDAIS">
+  <topic href="html/index.html" label="XDAIS Interface Reference"/>
+  <topic href="html/_disclaimer.html" label="Disclaimer"/>
+  <topic href="html/todo.html" label="Todo List"/>
+  <topic href="html/deprecated.html" label="Deprecated List"/>
+  <topic href="html/modules.html" label="Modules">
+    <topic href="html/group__ti__xdais__dm___i_a_u_d_d_e_c.html" label="IAUDDEC - XDM Audio Decoder Interface"/>
+    <topic href="html/group__ti__xdais__dm___i_a_u_d_d_e_c1.html" label="IAUDDEC1 - XDM Audio Decoder Interface"/>
+    <topic href="html/group__ti__xdais__dm___i_a_u_d_e_n_c.html" label="IAUDENC - XDM Audio Encoder Interface"/>
+    <topic href="html/group__ti__xdais__dm___i_a_u_d_e_n_c1.html" label="IAUDENC1 - Audio Encoder Interface"/>
+    <topic href="html/group__ti__xdais__dm___i_a_u_d_i_o.html" label="IAUDIO - XDM Audio Interface"/>
+    <topic href="html/group__ti__xdais__dm___i_i_m_g_d_e_c.html" label="IIMGDEC - XDM Image Decoder Interface"/>
+    <topic href="html/group__ti__xdais__dm___i_i_m_g_d_e_c1.html" label="IIMGDEC1 - XDM Image Decoder Interface"/>
+    <topic href="html/group__ti__xdais__dm___i_i_m_g_e_n_c.html" label="IIMGENC - XDM Image Encoder Interface"/>
+    <topic href="html/group__ti__xdais__dm___i_i_m_g_e_n_c1.html" label="IIMGENC1 - XDM Image Encoder Interface"/>
+    <topic href="html/group__ti__xdais__dm___i_s_p_e_e_c_h.html" label="ISPEECH - XDM Speech Interface"/>
+    <topic href="html/group__ti__xdais__dm___i_s_p_e_e_c_h1.html" label="ISPEECH - XDM Speech Interface"/>
+    <topic href="html/group__ti__xdais__dm___i_s_p_e_e_c_h1___a_m_r.html" label="ISPEECH_AMR - XDM Speech Interface (AMR)"/>
+    <topic href="html/group__ti__xdais__dm___i_s_p_e_e_c_h1___e_v_r_c.html" label="ISPEECH1_EVRC - XDM Speech Interface (EVRC)"/>
+    <topic href="html/group__ti__xdais__dm___i_s_p_e_e_c_h1___g722.html" label="ISPEECH1_G722 - XDM Speech Interface (G.722)"/>
+    <topic href="html/group__ti__xdais__dm___i_s_p_e_e_c_h1___g7221.html" label="ISPEECH1_G7221 - XDM Speech Interface (G.7221)"/>
+    <topic href="html/group__ti__xdais__dm___i_s_p_e_e_c_h1___g723.html" label="ISPEECH1_G723 - XDM Speech Interface (G.723)"/>
+    <topic href="html/group__ti__xdais__dm___i_s_p_e_e_c_h1___g726.html" label="ISPEECH1_G726 - XDM Speech Interface (G.726)"/>
+    <topic href="html/group__ti__xdais__dm___i_s_p_e_e_c_h1___i_l_b_c.html" label="ISPEECH1_ILBC - XDM Speech Interface (iLBC)"/>
+    <topic href="html/group__ti__xdais__dm___i_s_p_e_e_c_h1___p_c_m.html" label="ISPEECH1_PCM - XDM Speech Interface (PCM)"/>
+    <topic href="html/group__ti__xdais__dm___i_s_p_e_e_c_h1___s_m_v.html" label="ISPEECH1_SMV - XDM Speech Interface (SMV)"/>
+    <topic href="html/group__ti__xdais__dm___i_s_p_e_e_c_h1___w_b_a_m_r.html" label="ISPEECH1_WBAMR - XDM Speech Interface (WBAMR)"/>
+    <topic href="html/group__ti__xdais__dm___i_s_p_h_d_e_c.html" label="ISPHDEC - XDM Speech Decoder Interface"/>
+    <topic href="html/group__ti__xdais__dm___i_s_p_h_d_e_c1.html" label="ISPHDEC1 - XDM Speech Decoder Interface"/>
+    <topic href="html/group__ti__xdais__dm___i_s_p_h_e_n_c.html" label="ISPHENC - XDM Speech Encoder Interface"/>
+    <topic href="html/group__ti__xdais__dm___i_s_p_h_e_n_c1.html" label="ISPHENC1 - XDM Speech Encoder Interface"/>
+    <topic href="html/group__ti__xdais__dm___i_u_n_i_v_e_r_s_a_l.html" label="IUNIVERSAL - XDM Beta Universal Algorithm Interface"/>
+    <topic href="html/group__ti__xdais__dm___i_v_i_d_a_n_a_l_y_t_i_c_s.html" label="IVIDANALYTICS - XDM Beta Video Analytics Interface"/>
+    <topic href="html/group__ti__xdais__dm___i_v_i_d_d_e_c.html" label="IVIDDEC - XDM Video Decoder Interface"/>
+    <topic href="html/group__ti__xdais__dm___i_v_i_d_d_e_c1.html" label="IVIDDEC1 - XDM Video Decoder Interface"/>
+    <topic href="html/group__ti__xdais__dm___i_v_i_d_d_e_c2.html" label="IVIDDEC2 - XDM Video Decoder Interface"/>
+    <topic href="html/group__ti__xdais__dm___i_v_i_d_d_e_c3.html" label="IVIDDEC3 - XDM Video Decoder Interface"/>
+    <topic href="html/group__ti__xdais__dm___i_v_i_d_e_n_c.html" label="IVIDENC - XDM Video Encoder Interface"/>
+    <topic href="html/group__ti__xdais__dm___i_v_i_d_e_n_c1.html" label="IVIDENC1 - XDM Video Encoder Interface"/>
+    <topic href="html/group__ti__xdais__dm___i_v_i_d_e_n_c2.html" label="IVIDENC2 - XDM Video Encoder Interface"/>
+    <topic href="html/group__ti__xdais__dm___i_v_i_d_t_r_a_n_s_c_o_d_e.html" label="IVIDTRANSCODE - XDM Video Transcoder Interface"/>
+    <topic href="html/group__ti__xdais___i_a_l_g.html" label="IALG - XDAIS Algorithm Interface"/>
+    <topic href="html/group__ti__xdais___i_d_m_a3.html" label="IDMA3 - Interface for requesting EDMA3 resources"/>
+    <topic href="html/group___d_s_p_i_r_e_s.html" label="IRES"/>
+    <topic href="html/group__ti__xdais__dm___i_v_i_d_e_o.html" label="IVIDEO - XDM Video Interface"/>
+    <topic href="html/group__ti__xdais__dm__split___i_v_i_d_d_e_c2.html" label="XDM IVIDDEC2-based Video Decoder Split Interface"/>
+    <topic href="html/group__ti__xdais__dm___x_d_m.html" label="XDM - Shared XDM Definitions"/>
+    <topic href="html/group__ti__xdais___x_d_a_s.html" label="XDAIS Types and Constants"/>
+  </topic>
+  <topic href="html/annotated.html" label="Data Structures">
+    <topic href="html/struct_i_a_l_g___fxns.html" label="IALG_Fxns"/>
+    <topic href="html/struct_i_a_l_g___mem_rec.html" label="IALG_MemRec"/>
+    <topic href="html/struct_i_a_l_g___obj.html" label="IALG_Obj"/>
+    <topic href="html/struct_i_a_l_g___params.html" label="IALG_Params"/>
+    <topic href="html/struct_i_a_l_g___status.html" label="IALG_Status"/>
+    <topic href="html/struct_i_a_u_d_d_e_c1___dynamic_params.html" label="IAUDDEC1_DynamicParams"/>
+    <topic href="html/struct_i_a_u_d_d_e_c1___fxns.html" label="IAUDDEC1_Fxns"/>
+    <topic href="html/struct_i_a_u_d_d_e_c1___in_args.html" label="IAUDDEC1_InArgs"/>
+    <topic href="html/struct_i_a_u_d_d_e_c1___obj.html" label="IAUDDEC1_Obj"/>
+    <topic href="html/struct_i_a_u_d_d_e_c1___out_args.html" label="IAUDDEC1_OutArgs"/>
+    <topic href="html/struct_i_a_u_d_d_e_c1___params.html" label="IAUDDEC1_Params"/>
+    <topic href="html/struct_i_a_u_d_d_e_c1___status.html" label="IAUDDEC1_Status"/>
+    <topic href="html/struct_i_a_u_d_d_e_c___dynamic_params.html" label="IAUDDEC_DynamicParams"/>
+    <topic href="html/struct_i_a_u_d_d_e_c___fxns.html" label="IAUDDEC_Fxns"/>
+    <topic href="html/struct_i_a_u_d_d_e_c___in_args.html" label="IAUDDEC_InArgs"/>
+    <topic href="html/struct_i_a_u_d_d_e_c___obj.html" label="IAUDDEC_Obj"/>
+    <topic href="html/struct_i_a_u_d_d_e_c___out_args.html" label="IAUDDEC_OutArgs"/>
+    <topic href="html/struct_i_a_u_d_d_e_c___params.html" label="IAUDDEC_Params"/>
+    <topic href="html/struct_i_a_u_d_d_e_c___status.html" label="IAUDDEC_Status"/>
+    <topic href="html/struct_i_a_u_d_e_n_c1___dynamic_params.html" label="IAUDENC1_DynamicParams"/>
+    <topic href="html/struct_i_a_u_d_e_n_c1___fxns.html" label="IAUDENC1_Fxns"/>
+    <topic href="html/struct_i_a_u_d_e_n_c1___in_args.html" label="IAUDENC1_InArgs"/>
+    <topic href="html/struct_i_a_u_d_e_n_c1___obj.html" label="IAUDENC1_Obj"/>
+    <topic href="html/struct_i_a_u_d_e_n_c1___out_args.html" label="IAUDENC1_OutArgs"/>
+    <topic href="html/struct_i_a_u_d_e_n_c1___params.html" label="IAUDENC1_Params"/>
+    <topic href="html/struct_i_a_u_d_e_n_c1___status.html" label="IAUDENC1_Status"/>
+    <topic href="html/struct_i_a_u_d_e_n_c___dynamic_params.html" label="IAUDENC_DynamicParams"/>
+    <topic href="html/struct_i_a_u_d_e_n_c___fxns.html" label="IAUDENC_Fxns"/>
+    <topic href="html/struct_i_a_u_d_e_n_c___in_args.html" label="IAUDENC_InArgs"/>
+    <topic href="html/struct_i_a_u_d_e_n_c___obj.html" label="IAUDENC_Obj"/>
+    <topic href="html/struct_i_a_u_d_e_n_c___out_args.html" label="IAUDENC_OutArgs"/>
+    <topic href="html/struct_i_a_u_d_e_n_c___params.html" label="IAUDENC_Params"/>
+    <topic href="html/struct_i_a_u_d_e_n_c___status.html" label="IAUDENC_Status"/>
+    <topic href="html/struct_i_d_m_a2___channel_rec.html" label="IDMA2_ChannelRec"/>
+    <topic href="html/struct_i_d_m_a2___fxns.html" label="IDMA2_Fxns"/>
+    <topic href="html/struct_i_d_m_a2___params.html" label="IDMA2_Params"/>
+    <topic href="html/struct_i_d_m_a3___channel_rec.html" label="IDMA3_ChannelRec"/>
+    <topic href="html/struct_i_d_m_a3___fxns.html" label="IDMA3_Fxns"/>
+    <topic href="html/struct_i_d_m_a3___mem_rec.html" label="IDMA3_MemRec"/>
+    <topic href="html/struct_i_d_m_a3___obj.html" label="IDMA3_Obj"/>
+    <topic href="html/struct_i_d_m_a3___protocol_obj.html" label="IDMA3_ProtocolObj"/>
+    <topic href="html/struct_i_d_m_a___channel_rec.html" label="IDMA_ChannelRec"/>
+    <topic href="html/struct_i_d_m_a___fxns.html" label="IDMA_Fxns"/>
+    <topic href="html/struct_i_d_m_a___params.html" label="IDMA_Params"/>
+    <topic href="html/struct_i_i_m_g_d_e_c1___dynamic_params.html" label="IIMGDEC1_DynamicParams"/>
+    <topic href="html/struct_i_i_m_g_d_e_c1___fxns.html" label="IIMGDEC1_Fxns"/>
+    <topic href="html/struct_i_i_m_g_d_e_c1___in_args.html" label="IIMGDEC1_InArgs"/>
+    <topic href="html/struct_i_i_m_g_d_e_c1___obj.html" label="IIMGDEC1_Obj"/>
+    <topic href="html/struct_i_i_m_g_d_e_c1___out_args.html" label="IIMGDEC1_OutArgs"/>
+    <topic href="html/struct_i_i_m_g_d_e_c1___params.html" label="IIMGDEC1_Params"/>
+    <topic href="html/struct_i_i_m_g_d_e_c1___status.html" label="IIMGDEC1_Status"/>
+    <topic href="html/struct_i_i_m_g_d_e_c___dynamic_params.html" label="IIMGDEC_DynamicParams"/>
+    <topic href="html/struct_i_i_m_g_d_e_c___fxns.html" label="IIMGDEC_Fxns"/>
+    <topic href="html/struct_i_i_m_g_d_e_c___in_args.html" label="IIMGDEC_InArgs"/>
+    <topic href="html/struct_i_i_m_g_d_e_c___obj.html" label="IIMGDEC_Obj"/>
+    <topic href="html/struct_i_i_m_g_d_e_c___out_args.html" label="IIMGDEC_OutArgs"/>
+    <topic href="html/struct_i_i_m_g_d_e_c___params.html" label="IIMGDEC_Params"/>
+    <topic href="html/struct_i_i_m_g_d_e_c___status.html" label="IIMGDEC_Status"/>
+    <topic href="html/struct_i_i_m_g_e_n_c1___dynamic_params.html" label="IIMGENC1_DynamicParams"/>
+    <topic href="html/struct_i_i_m_g_e_n_c1___fxns.html" label="IIMGENC1_Fxns"/>
+    <topic href="html/struct_i_i_m_g_e_n_c1___in_args.html" label="IIMGENC1_InArgs"/>
+    <topic href="html/struct_i_i_m_g_e_n_c1___obj.html" label="IIMGENC1_Obj"/>
+    <topic href="html/struct_i_i_m_g_e_n_c1___out_args.html" label="IIMGENC1_OutArgs"/>
+    <topic href="html/struct_i_i_m_g_e_n_c1___params.html" label="IIMGENC1_Params"/>
+    <topic href="html/struct_i_i_m_g_e_n_c1___status.html" label="IIMGENC1_Status"/>
+    <topic href="html/struct_i_i_m_g_e_n_c___dynamic_params.html" label="IIMGENC_DynamicParams"/>
+    <topic href="html/struct_i_i_m_g_e_n_c___fxns.html" label="IIMGENC_Fxns"/>
+    <topic href="html/struct_i_i_m_g_e_n_c___in_args.html" label="IIMGENC_InArgs"/>
+    <topic href="html/struct_i_i_m_g_e_n_c___obj.html" label="IIMGENC_Obj"/>
+    <topic href="html/struct_i_i_m_g_e_n_c___out_args.html" label="IIMGENC_OutArgs"/>
+    <topic href="html/struct_i_i_m_g_e_n_c___params.html" label="IIMGENC_Params"/>
+    <topic href="html/struct_i_i_m_g_e_n_c___status.html" label="IIMGENC_Status"/>
+    <topic href="html/struct_i_r_e_s___fxns.html" label="IRES_Fxns"/>
+    <topic href="html/struct_i_r_e_s___obj.html" label="IRES_Obj"/>
+    <topic href="html/struct_i_r_e_s___properties.html" label="IRES_Properties"/>
+    <topic href="html/struct_i_r_e_s___protocol_args.html" label="IRES_ProtocolArgs"/>
+    <topic href="html/struct_i_r_e_s___protocol_revision.html" label="IRES_ProtocolRevision"/>
+    <topic href="html/struct_i_r_e_s___resource_descriptor.html" label="IRES_ResourceDescriptor"/>
+    <topic href="html/struct_i_r_e_s___yield_context.html" label="IRES_YieldContext"/>
+    <topic href="html/struct_i_s_p_h_d_e_c1___dynamic_params.html" label="ISPHDEC1_DynamicParams"/>
+    <topic href="html/struct_i_s_p_h_d_e_c1___fxns.html" label="ISPHDEC1_Fxns"/>
+    <topic href="html/struct_i_s_p_h_d_e_c1___in_args.html" label="ISPHDEC1_InArgs"/>
+    <topic href="html/struct_i_s_p_h_d_e_c1___obj.html" label="ISPHDEC1_Obj"/>
+    <topic href="html/struct_i_s_p_h_d_e_c1___out_args.html" label="ISPHDEC1_OutArgs"/>
+    <topic href="html/struct_i_s_p_h_d_e_c1___params.html" label="ISPHDEC1_Params"/>
+    <topic href="html/struct_i_s_p_h_d_e_c1___status.html" label="ISPHDEC1_Status"/>
+    <topic href="html/struct_i_s_p_h_d_e_c___dynamic_params.html" label="ISPHDEC_DynamicParams"/>
+    <topic href="html/struct_i_s_p_h_d_e_c___fxns.html" label="ISPHDEC_Fxns"/>
+    <topic href="html/struct_i_s_p_h_d_e_c___in_args.html" label="ISPHDEC_InArgs"/>
+    <topic href="html/struct_i_s_p_h_d_e_c___obj.html" label="ISPHDEC_Obj"/>
+    <topic href="html/struct_i_s_p_h_d_e_c___out_args.html" label="ISPHDEC_OutArgs"/>
+    <topic href="html/struct_i_s_p_h_d_e_c___params.html" label="ISPHDEC_Params"/>
+    <topic href="html/struct_i_s_p_h_d_e_c___status.html" label="ISPHDEC_Status"/>
+    <topic href="html/struct_i_s_p_h_e_n_c1___dynamic_params.html" label="ISPHENC1_DynamicParams"/>
+    <topic href="html/struct_i_s_p_h_e_n_c1___fxns.html" label="ISPHENC1_Fxns"/>
+    <topic href="html/struct_i_s_p_h_e_n_c1___in_args.html" label="ISPHENC1_InArgs"/>
+    <topic href="html/struct_i_s_p_h_e_n_c1___obj.html" label="ISPHENC1_Obj"/>
+    <topic href="html/struct_i_s_p_h_e_n_c1___out_args.html" label="ISPHENC1_OutArgs"/>
+    <topic href="html/struct_i_s_p_h_e_n_c1___params.html" label="ISPHENC1_Params"/>
+    <topic href="html/struct_i_s_p_h_e_n_c1___status.html" label="ISPHENC1_Status"/>
+    <topic href="html/struct_i_s_p_h_e_n_c___dynamic_params.html" label="ISPHENC_DynamicParams"/>
+    <topic href="html/struct_i_s_p_h_e_n_c___fxns.html" label="ISPHENC_Fxns"/>
+    <topic href="html/struct_i_s_p_h_e_n_c___in_args.html" label="ISPHENC_InArgs"/>
+    <topic href="html/struct_i_s_p_h_e_n_c___obj.html" label="ISPHENC_Obj"/>
+    <topic href="html/struct_i_s_p_h_e_n_c___out_args.html" label="ISPHENC_OutArgs"/>
+    <topic href="html/struct_i_s_p_h_e_n_c___params.html" label="ISPHENC_Params"/>
+    <topic href="html/struct_i_s_p_h_e_n_c___status.html" label="ISPHENC_Status"/>
+    <topic href="html/struct_i_u_n_i_v_e_r_s_a_l___dynamic_params.html" label="IUNIVERSAL_DynamicParams"/>
+    <topic href="html/struct_i_u_n_i_v_e_r_s_a_l___fxns.html" label="IUNIVERSAL_Fxns"/>
+    <topic href="html/struct_i_u_n_i_v_e_r_s_a_l___in_args.html" label="IUNIVERSAL_InArgs"/>
+    <topic href="html/struct_i_u_n_i_v_e_r_s_a_l___obj.html" label="IUNIVERSAL_Obj"/>
+    <topic href="html/struct_i_u_n_i_v_e_r_s_a_l___out_args.html" label="IUNIVERSAL_OutArgs"/>
+    <topic href="html/struct_i_u_n_i_v_e_r_s_a_l___params.html" label="IUNIVERSAL_Params"/>
+    <topic href="html/struct_i_u_n_i_v_e_r_s_a_l___status.html" label="IUNIVERSAL_Status"/>
+    <topic href="html/struct_i_v_i_d_a_n_a_l_y_t_i_c_s___dynamic_params.html" label="IVIDANALYTICS_DynamicParams"/>
+    <topic href="html/struct_i_v_i_d_a_n_a_l_y_t_i_c_s___fxns.html" label="IVIDANALYTICS_Fxns"/>
+    <topic href="html/struct_i_v_i_d_a_n_a_l_y_t_i_c_s___grid.html" label="IVIDANALYTICS_Grid"/>
+    <topic href="html/struct_i_v_i_d_a_n_a_l_y_t_i_c_s___in_args.html" label="IVIDANALYTICS_InArgs"/>
+    <topic href="html/struct_i_v_i_d_a_n_a_l_y_t_i_c_s___obj.html" label="IVIDANALYTICS_Obj"/>
+    <topic href="html/struct_i_v_i_d_a_n_a_l_y_t_i_c_s___out_args.html" label="IVIDANALYTICS_OutArgs"/>
+    <topic href="html/struct_i_v_i_d_a_n_a_l_y_t_i_c_s___params.html" label="IVIDANALYTICS_Params"/>
+    <topic href="html/struct_i_v_i_d_a_n_a_l_y_t_i_c_s___rule.html" label="IVIDANALYTICS_Rule"/>
+    <topic href="html/struct_i_v_i_d_a_n_a_l_y_t_i_c_s___status.html" label="IVIDANALYTICS_Status"/>
+    <topic href="html/struct_i_v_i_d_d_e_c1___dynamic_params.html" label="IVIDDEC1_DynamicParams"/>
+    <topic href="html/struct_i_v_i_d_d_e_c1___fxns.html" label="IVIDDEC1_Fxns"/>
+    <topic href="html/struct_i_v_i_d_d_e_c1___in_args.html" label="IVIDDEC1_InArgs"/>
+    <topic href="html/struct_i_v_i_d_d_e_c1___obj.html" label="IVIDDEC1_Obj"/>
+    <topic href="html/struct_i_v_i_d_d_e_c1___out_args.html" label="IVIDDEC1_OutArgs"/>
+    <topic href="html/struct_i_v_i_d_d_e_c1___params.html" label="IVIDDEC1_Params"/>
+    <topic href="html/struct_i_v_i_d_d_e_c1___status.html" label="IVIDDEC1_Status"/>
+    <topic href="html/struct_i_v_i_d_d_e_c2___dynamic_params.html" label="IVIDDEC2_DynamicParams"/>
+    <topic href="html/struct_i_v_i_d_d_e_c2___fxns.html" label="IVIDDEC2_Fxns"/>
+    <topic href="html/struct_i_v_i_d_d_e_c2___in_args.html" label="IVIDDEC2_InArgs"/>
+    <topic href="html/struct_i_v_i_d_d_e_c2___obj.html" label="IVIDDEC2_Obj"/>
+    <topic href="html/struct_i_v_i_d_d_e_c2___out_args.html" label="IVIDDEC2_OutArgs"/>
+    <topic href="html/struct_i_v_i_d_d_e_c2___params.html" label="IVIDDEC2_Params"/>
+    <topic href="html/struct_i_v_i_d_d_e_c2___status.html" label="IVIDDEC2_Status"/>
+    <topic href="html/struct_i_v_i_d_d_e_c2_b_a_c_k___fxns.html" label="IVIDDEC2BACK_Fxns"/>
+    <topic href="html/struct_i_v_i_d_d_e_c2_b_a_c_k___obj.html" label="IVIDDEC2BACK_Obj"/>
+    <topic href="html/struct_i_v_i_d_d_e_c2_f_r_o_n_t___fxns.html" label="IVIDDEC2FRONT_Fxns"/>
+    <topic href="html/struct_i_v_i_d_d_e_c2_f_r_o_n_t___obj.html" label="IVIDDEC2FRONT_Obj"/>
+    <topic href="html/struct_i_v_i_d_d_e_c2_f_r_o_n_t___out_args.html" label="IVIDDEC2FRONT_OutArgs"/>
+    <topic href="html/struct_i_v_i_d_d_e_c2_f_r_o_n_t___status.html" label="IVIDDEC2FRONT_Status"/>
+    <topic href="html/struct_i_v_i_d_d_e_c3___dynamic_params.html" label="IVIDDEC3_DynamicParams"/>
+    <topic href="html/struct_i_v_i_d_d_e_c3___fxns.html" label="IVIDDEC3_Fxns"/>
+    <topic href="html/struct_i_v_i_d_d_e_c3___in_args.html" label="IVIDDEC3_InArgs"/>
+    <topic href="html/struct_i_v_i_d_d_e_c3___obj.html" label="IVIDDEC3_Obj"/>
+    <topic href="html/struct_i_v_i_d_d_e_c3___out_args.html" label="IVIDDEC3_OutArgs"/>
+    <topic href="html/struct_i_v_i_d_d_e_c3___params.html" label="IVIDDEC3_Params"/>
+    <topic href="html/struct_i_v_i_d_d_e_c3___status.html" label="IVIDDEC3_Status"/>
+    <topic href="html/struct_i_v_i_d_d_e_c___dynamic_params.html" label="IVIDDEC_DynamicParams"/>
+    <topic href="html/struct_i_v_i_d_d_e_c___fxns.html" label="IVIDDEC_Fxns"/>
+    <topic href="html/struct_i_v_i_d_d_e_c___in_args.html" label="IVIDDEC_InArgs"/>
+    <topic href="html/struct_i_v_i_d_d_e_c___obj.html" label="IVIDDEC_Obj"/>
+    <topic href="html/struct_i_v_i_d_d_e_c___out_args.html" label="IVIDDEC_OutArgs"/>
+    <topic href="html/struct_i_v_i_d_d_e_c___params.html" label="IVIDDEC_Params"/>
+    <topic href="html/struct_i_v_i_d_d_e_c___status.html" label="IVIDDEC_Status"/>
+    <topic href="html/struct_i_v_i_d_e_n_c1___dynamic_params.html" label="IVIDENC1_DynamicParams"/>
+    <topic href="html/struct_i_v_i_d_e_n_c1___fxns.html" label="IVIDENC1_Fxns"/>
+    <topic href="html/struct_i_v_i_d_e_n_c1___in_args.html" label="IVIDENC1_InArgs"/>
+    <topic href="html/struct_i_v_i_d_e_n_c1___mb_data.html" label="IVIDENC1_MbData"/>
+    <topic href="html/struct_i_v_i_d_e_n_c1___obj.html" label="IVIDENC1_Obj"/>
+    <topic href="html/struct_i_v_i_d_e_n_c1___out_args.html" label="IVIDENC1_OutArgs"/>
+    <topic href="html/struct_i_v_i_d_e_n_c1___params.html" label="IVIDENC1_Params"/>
+    <topic href="html/struct_i_v_i_d_e_n_c1___status.html" label="IVIDENC1_Status"/>
+    <topic href="html/struct_i_v_i_d_e_n_c2___dynamic_params.html" label="IVIDENC2_DynamicParams"/>
+    <topic href="html/struct_i_v_i_d_e_n_c2___fxns.html" label="IVIDENC2_Fxns"/>
+    <topic href="html/struct_i_v_i_d_e_n_c2___in_args.html" label="IVIDENC2_InArgs"/>
+    <topic href="html/struct_i_v_i_d_e_n_c2___obj.html" label="IVIDENC2_Obj"/>
+    <topic href="html/struct_i_v_i_d_e_n_c2___out_args.html" label="IVIDENC2_OutArgs"/>
+    <topic href="html/struct_i_v_i_d_e_n_c2___params.html" label="IVIDENC2_Params"/>
+    <topic href="html/struct_i_v_i_d_e_n_c2___status.html" label="IVIDENC2_Status"/>
+    <topic href="html/struct_i_v_i_d_e_n_c___dynamic_params.html" label="IVIDENC_DynamicParams"/>
+    <topic href="html/struct_i_v_i_d_e_n_c___fxns.html" label="IVIDENC_Fxns"/>
+    <topic href="html/struct_i_v_i_d_e_n_c___in_args.html" label="IVIDENC_InArgs"/>
+    <topic href="html/struct_i_v_i_d_e_n_c___obj.html" label="IVIDENC_Obj"/>
+    <topic href="html/struct_i_v_i_d_e_n_c___out_args.html" label="IVIDENC_OutArgs"/>
+    <topic href="html/struct_i_v_i_d_e_n_c___params.html" label="IVIDENC_Params"/>
+    <topic href="html/struct_i_v_i_d_e_n_c___status.html" label="IVIDENC_Status"/>
+    <topic href="html/struct_i_v_i_d_e_o1___buf_desc.html" label="IVIDEO1_BufDesc"/>
+    <topic href="html/struct_i_v_i_d_e_o1___buf_desc_in.html" label="IVIDEO1_BufDescIn"/>
+    <topic href="html/struct_i_v_i_d_e_o2___buf_desc.html" label="IVIDEO2_BufDesc"/>
+    <topic href="html/struct_i_v_i_d_e_o___buf_desc.html" label="IVIDEO_BufDesc"/>
+    <topic href="html/struct_i_v_i_d_t_r_a_n_s_c_o_d_e___dynamic_params.html" label="IVIDTRANSCODE_DynamicParams"/>
+    <topic href="html/struct_i_v_i_d_t_r_a_n_s_c_o_d_e___fxns.html" label="IVIDTRANSCODE_Fxns"/>
+    <topic href="html/struct_i_v_i_d_t_r_a_n_s_c_o_d_e___in_args.html" label="IVIDTRANSCODE_InArgs"/>
+    <topic href="html/struct_i_v_i_d_t_r_a_n_s_c_o_d_e___obj.html" label="IVIDTRANSCODE_Obj"/>
+    <topic href="html/struct_i_v_i_d_t_r_a_n_s_c_o_d_e___out_args.html" label="IVIDTRANSCODE_OutArgs"/>
+    <topic href="html/struct_i_v_i_d_t_r_a_n_s_c_o_d_e___params.html" label="IVIDTRANSCODE_Params"/>
+    <topic href="html/struct_i_v_i_d_t_r_a_n_s_c_o_d_e___status.html" label="IVIDTRANSCODE_Status"/>
+    <topic href="html/struct_x_d_m1___alg_buf_info.html" label="XDM1_AlgBufInfo"/>
+    <topic href="html/struct_x_d_m1___buf_desc.html" label="XDM1_BufDesc"/>
+    <topic href="html/struct_x_d_m1___single_buf_desc.html" label="XDM1_SingleBufDesc"/>
+    <topic href="html/struct_x_d_m2___buf_desc.html" label="XDM2_BufDesc"/>
+    <topic href="html/union_x_d_m2___buf_size.html" label="XDM2_BufSize"/>
+    <topic href="html/struct_x_d_m2___single_buf_desc.html" label="XDM2_SingleBufDesc"/>
+    <topic href="html/struct_x_d_m___alg_buf_info.html" label="XDM_AlgBufInfo"/>
+    <topic href="html/struct_x_d_m___buf_desc.html" label="XDM_BufDesc"/>
+    <topic href="html/struct_x_d_m___context.html" label="XDM_Context"/>
+    <topic href="html/struct_x_d_m___context_info.html" label="XDM_ContextInfo"/>
+    <topic href="html/struct_x_d_m___data_sync_desc.html" label="XDM_DataSyncDesc"/>
+    <topic href="html/struct_x_d_m___date.html" label="XDM_Date"/>
+    <topic href="html/struct_x_d_m___point.html" label="XDM_Point"/>
+    <topic href="html/struct_x_d_m___rect.html" label="XDM_Rect"/>
+    <topic href="html/struct_x_d_m___single_buf_desc.html" label="XDM_SingleBufDesc"/>
+  </topic>
+  <topic href="html/functions.html" label="Data Fields"/>
+  <topic href="html/files.html" label="File List">
+    <topic href="html/acpy_8h.html" label="acpy.h"/>
+    <topic href="html/acpy2_8h.html" label="acpy2.h"/>
+    <topic href="html/ialg_8h.html" label="ialg.h"/>
+    <topic href="html/iauddec_8h.html" label="iauddec.h"/>
+    <topic href="html/iauddec1_8h.html" label="iauddec1.h"/>
+    <topic href="html/iaudenc_8h.html" label="iaudenc.h"/>
+    <topic href="html/iaudenc1_8h.html" label="iaudenc1.h"/>
+    <topic href="html/iaudio_8h.html" label="iaudio.h"/>
+    <topic href="html/idma_8h.html" label="idma.h"/>
+    <topic href="html/idma2_8h.html" label="idma2.h"/>
+    <topic href="html/idma3_8h.html" label="idma3.h"/>
+    <topic href="html/iimgdec_8h.html" label="iimgdec.h"/>
+    <topic href="html/iimgdec1_8h.html" label="iimgdec1.h"/>
+    <topic href="html/iimgenc_8h.html" label="iimgenc.h"/>
+    <topic href="html/iimgenc1_8h.html" label="iimgenc1.h"/>
+    <topic href="html/ires_8h.html" label="ires.h"/>
+    <topic href="html/ires__common_8h.html" label="ires_common.h"/>
+    <topic href="html/ispeech_8h.html" label="ispeech.h"/>
+    <topic href="html/ispeech1_8h.html" label="ispeech1.h"/>
+    <topic href="html/ispeech1__amr_8h.html" label="ispeech1_amr.h"/>
+    <topic href="html/ispeech1__evrc_8h.html" label="ispeech1_evrc.h"/>
+    <topic href="html/ispeech1__g722_8h.html" label="ispeech1_g722.h"/>
+    <topic href="html/ispeech1__g7221_8h.html" label="ispeech1_g7221.h"/>
+    <topic href="html/ispeech1__g723_8h.html" label="ispeech1_g723.h"/>
+    <topic href="html/ispeech1__g726_8h.html" label="ispeech1_g726.h"/>
+    <topic href="html/ispeech1__ilbc_8h.html" label="ispeech1_ilbc.h"/>
+    <topic href="html/ispeech1__pcm_8h.html" label="ispeech1_pcm.h"/>
+    <topic href="html/ispeech1__smv_8h.html" label="ispeech1_smv.h"/>
+    <topic href="html/ispeech1__wbamr_8h.html" label="ispeech1_wbamr.h"/>
+    <topic href="html/isphdec_8h.html" label="isphdec.h"/>
+    <topic href="html/isphdec1_8h.html" label="isphdec1.h"/>
+    <topic href="html/isphenc_8h.html" label="isphenc.h"/>
+    <topic href="html/isphenc1_8h.html" label="isphenc1.h"/>
+    <topic href="html/iuniversal_8h.html" label="iuniversal.h"/>
+    <topic href="html/ividanalytics_8h.html" label="ividanalytics.h"/>
+    <topic href="html/ividdec_8h.html" label="ividdec.h"/>
+    <topic href="html/ividdec1_8h.html" label="ividdec1.h"/>
+    <topic href="html/ividdec2_8h.html" label="ividdec2.h"/>
+    <topic href="html/split_2ividdec2_8h.html" label="split/ividdec2.h"/>
+    <topic href="html/ividdec3_8h.html" label="ividdec3.h"/>
+    <topic href="html/ividenc_8h.html" label="ividenc.h"/>
+    <topic href="html/ividenc1_8h.html" label="ividenc1.h"/>
+    <topic href="html/ividenc2_8h.html" label="ividenc2.h"/>
+    <topic href="html/ivideo_8h.html" label="ivideo.h"/>
+    <topic href="html/ividtranscode_8h.html" label="ividtranscode.h"/>
+    <topic href="html/xdas_8h.html" label="xdas.h"/>
+    <topic href="html/xdm_8h.html" label="xdm.h"/>
+  </topic>
+  <topic href="html/dirs.html" label="Directory Hierarchy">
+    <topic href="html/dir_6f0b17b302f9581db99292d8a7637486.html" label="packages">
+      <topic href="html/dir_2a8ab932d66f6e0cab503f67a35fde43.html" label="ti">
+        <topic href="html/dir_7b9a39cae031f60e8bd72918d4d4fc08.html" label="xdais">
+          <topic href="html/dir_f4e0db01eb1be00d74b8b4f156d86a6c.html" label="dm">
+            <topic href="html/dir_765f18e8edec3510beedef1164423977.html" label="split"/>
+          </topic>
+        </topic>
+      </topic>
+    </topic>
+  </topic>
+  <topic href="html/globals.html" label="Globals"/>
+</toc>
